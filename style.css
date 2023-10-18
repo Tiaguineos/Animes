@@ -11,5 +11,7 @@ h1{
     font-style: italic;
 }
 
+body{
 
-<body style="background-color:black">
+    background-color: black;
+}
