@@ -11,6 +11,10 @@ h1{
     font-style: italic;
 }
 
+figure.tier-list{
+    border: 8px solid red;
+}
+
 body{
 
     background-color: black;
