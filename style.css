@@ -31,3 +31,9 @@ body{
 #texto3{
     color:yellow
 }
+
+.destaques{
+    color:aqua;
+    font-size:35;
+    font-style:italic;
+}
